@@ -1,0 +1,52 @@
+
+html {
+
+    box-sizing: border-box;
+    font-size: 62.5%;
+
+  }
+
+  *, *:before, *:after {
+    box-sizing: inherit;
+  }
+
+  img {
+
+    max-width: 100%;
+
+  }
+
+  .container {
+   
+    width: 95%;
+    max-width: 120rem;
+    margin: 0 auto;
+
+  }
+
+  h1 {
+  
+    font-size: 3rem;
+
+  }
+
+  p {
+
+    font-size: 2rem;
+
+  }
+
+  a {
+  
+    text-decoration: none;
+
+  }
+
+  .borde {
+    
+    padding: 1rem;
+    border: 2px solid black;
+    margin-top: 2rem;
+    margin-bottom: 2rem; /* responsive */
+
+  }
